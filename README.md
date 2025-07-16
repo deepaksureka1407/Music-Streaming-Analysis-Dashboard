@@ -19,7 +19,7 @@ An interactive Power BI dashboard visualizing global music streaming trends (201
 - `scripts/`: Data preprocessing code
 
 ## 📷 Preview
-![Dashboard Screenshot](Screenshot_2025-07-16_193450.png)
+![Dashboard Screenshot](Screenshot%202025-07-16%20193450.png)
 
 ## 🧠 Insights
 - “Heat Waves” by Glass Animals is the top-performing song.
